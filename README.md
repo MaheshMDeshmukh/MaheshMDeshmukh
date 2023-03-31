@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://dmahesh.me/](dmahesh.me)
+- 👨‍💻 All of my projects are available at([dmahesh.me](http://dmahesh.me/))
 
 - 💬 Ask me about **JavaScript**
 
